@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="vdo">
+  <DataContextMoniker Name="/vdoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="edfaddb7-879b-45d9-a734-4c9dbae9c87f" absoluteBounds="3.375, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/vdoDataContext/videotutorial" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df95720c-ed03-4c30-8ba1-6ecf5022b1bc" absoluteBounds="3.39, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cd9b1f2b-2543-43f2-9c4d-f12ae7c04493" absoluteBounds="0.625, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/vdoDataContext/gif" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a4f388a-851f-4a12-a434-8b88bf88df10" absoluteBounds="0.64000000000000012, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
